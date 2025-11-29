@@ -13,11 +13,7 @@ The Java100 project serves as a foundational stepping stone for individuals vent
 
 ```
 fundamentals
-├── AreaOfCircle.class
-├── AreaOfCircle.java
-├── CelsiusToFahrenheit.class
-├── SumOfTwoNumbers.class
-└── SumOfTwoNumbers.java
+
 ```
 
 ## 👥 Contributing
